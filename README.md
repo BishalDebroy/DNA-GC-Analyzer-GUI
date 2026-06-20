@@ -23,7 +23,7 @@ Built with **Tkinter** and **Matplotlib** – no Qt dependencies required.
 
 ## Screenshots
 
-![GUI screenshot](screenshot.png)   <!-- Replace with actual screenshot if available -->
+![GUI screenshot](GUI_interface_tour.png)   <!-- Replace with actual screenshot if available -->
 
 ---
 
